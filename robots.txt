@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rogerdaviau075-pixel.github.io/camecom-app-docs/sitemap.xml
